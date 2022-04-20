@@ -2,7 +2,7 @@
 MSCH-C220 Game Jam, April 2022
 
 ## Theme
-How you thought about or interpreted the theme
+Crunch Time
 
 ## Game Play
 Objective
@@ -20,4 +20,5 @@ Assets, or resources used
 ## Future Development
 
 # Created by: Group Name
-List of group members (and contributions)
+Calvin Carden
+Elayne Mason
